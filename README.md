@@ -3,7 +3,7 @@
 ### 基于React的音乐播放器.
 
 ![final effect](http://preview.ibb.co/gLbeHn/player.png)
-
+Demo展示链接： https://clovis0070.github.io/musicplayer-by-react/build/#/
 
 ---
 
