@@ -23,8 +23,8 @@ Demo展示链接： https://clovis0070.github.io/musicplayer-by-react/build/#/
 
     安装项目依赖项
     
-    （部分包可能需要更新
-    
+    （部分包可能需要更新，使用
+    
     `npm update`
     
     更新依赖项）
